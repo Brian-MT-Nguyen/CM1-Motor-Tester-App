@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CM1 Motor Test Demo", "CM1 Motor Test Demo\CM1 Motor Test Demo.csproj", "{7E85F98E-DF45-444A-801E-F57C6A587613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E85F98E-DF45-444A-801E-F57C6A587613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E85F98E-DF45-444A-801E-F57C6A587613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E85F98E-DF45-444A-801E-F57C6A587613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E85F98E-DF45-444A-801E-F57C6A587613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8BA03C6-B259-45EB-9AE6-CED40D6B8ED5}
+	EndGlobalSection
+EndGlobal

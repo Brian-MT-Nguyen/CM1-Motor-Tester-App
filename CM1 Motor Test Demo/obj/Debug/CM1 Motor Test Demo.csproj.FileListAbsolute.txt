@@ -1,0 +1,12 @@
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\bin\Debug\CM1 Motor Test Demo.exe.config
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\bin\Debug\CM1 Motor Test Demo.exe
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\bin\Debug\CM1 Motor Test Demo.pdb
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\bin\Debug\SimpleTCP.dll
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1 Motor Test Demo.csproj.AssemblyReference.cache
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1_Motor_Test_Demo.Form1.resources
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1_Motor_Test_Demo.Properties.Resources.resources
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1 Motor Test Demo.csproj.GenerateResource.cache
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1 Motor Test Demo.csproj.CoreCompileInputs.cache
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1 Motor Test Demo.csproj.CopyComplete
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1 Motor Test Demo.exe
+C:\Users\Brian Nguyen\source\repos\CM1 Motor Test Demo\CM1 Motor Test Demo\obj\Debug\CM1 Motor Test Demo.pdb
