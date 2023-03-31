@@ -1,3 +1,3 @@
 # CM1-Motor-Tester-App
 
-Source Code of the CM1 Motor Tester App Made 08/22
+Source Code of the Cool Muscle CM1 Motor Tester App Made 08/22
